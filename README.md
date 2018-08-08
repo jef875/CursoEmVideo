@@ -1,0 +1,2 @@
+# CursoEmVideo
+estudando python
